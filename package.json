@@ -1,0 +1,38 @@
+{
+  "name": "wunderbucket-plugin",
+  "version": "1.0.0",
+  "description": "Plugin module for Wunderbucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levinunnink/wunderbucket-plugin.git"
+  },
+  "author": "Levi Nunnink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levinunnink/wunderbucket-plugin/issues"
+  },
+  "homepage": "https://github.com/levinunnink/wunderbucket-plugin#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "chai": "^4.2.0",
+    "codecov": "^3.3.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "jest": "^24.7.1",
+    "pre-commit": "^1.2.2",
+    "sinon": "^7.3.2",
+    "sinon-chai": "^3.3.0"
+  },
+  "pre-commit": [
+    "test"
+  ],
+  "dependencies": {
+    "read-pkg-up": "^5.0.0"
+  }
+}
