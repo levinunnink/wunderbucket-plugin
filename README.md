@@ -1,1 +1,1 @@
-# 🔌 Wunderbucket Plugins# wunderbucket-plugin
+# 🔌 Wunderbucket Plugins
