@@ -4,14 +4,17 @@
   "description": "Plugin module for Wunderbucket",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint **/*.js",
+
+    "prepublish": "npm test && npm run lint && npm run build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/levinunnink/wunderbucket-plugin.git"
   },
   "author": "Levi Nunnink",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/levinunnink/wunderbucket-plugin/issues"
   },

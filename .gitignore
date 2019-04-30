@@ -3,6 +3,5 @@
 *.swp
 .DS_Store
 *.log
-repositories
 .node-persist
 test/coverage
