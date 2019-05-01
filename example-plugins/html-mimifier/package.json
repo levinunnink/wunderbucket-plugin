@@ -9,8 +9,8 @@
   "author": "Levi Nunnink",
   "license": "ISC",
   "dependencies": {
-    "wunderbucket-plugin": "git+https://05aabbe716adfc75fde4b531dfffe0ef668e8781:x-oauth-basic@github.com/levinunnink/wunderbucket-plugin.git",
-    "html-minifier": "^4.0.0"
+    "html-minifier": "^4.0.0",
+    "wunderbucket-plugin": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",

@@ -1,6 +1,6 @@
 {
   "name": "wunderbucket-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin module for Wunderbucket",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/levinunnink/wunderbucket-plugin.git"
+    "url": "levinunnink/wunderbucket-plugin.git"
   },
   "author": "Levi Nunnink",
   "license": "MIT",

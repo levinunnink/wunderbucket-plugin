@@ -38,8 +38,8 @@ const wunderbucket = {
 describe('HTMLMinifier', () => {
   describe('process()', () => {
     it('should minify html', async () => {
-      await HTMLMinifier.process(wunderbucket);
-      expect(wunderbucket.$.html().indexOf('\n')).is.equal(-1);
+      const result = await HTMLMinifier.process(wunderbucket);
+      expect(result.indexOf('\n')).is.equal(-1);
     });
   });
 });

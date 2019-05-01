@@ -8,7 +8,7 @@ class HTMLMinifier extends WunderPlugin {
       minifyJS: true,
       collapseWhitespace: true,
     });
-    wunderbucket.$ = wunderbucket.$.load(html); // eslint-disable-line
+    return html;
   }
 }
 
