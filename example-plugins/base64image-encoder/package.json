@@ -1,0 +1,14 @@
+{
+  "name": "wunderbucket-base64image-plugin",
+  "version": "1.0.0",
+  "description": "A WunderBucket plugin to base64 encode all images",
+  "main": "ImageEncoder.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Levi Nunnink",
+  "license": "ISC",
+  "dependencies": {
+    "wunderbucket-plugin": "^1.0.0"
+  }
+}
