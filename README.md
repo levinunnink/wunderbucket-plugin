@@ -2,6 +2,14 @@
 
 Further documentation forthcoming.
 
+# Hooks
+
+## convert()
+
+## processAsset()
+
+## process()
+
 # Plugins
 
 Plugin | Hook | Description

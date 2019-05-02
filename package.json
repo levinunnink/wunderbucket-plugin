@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "lint": "eslint **/*.js",
-    "prepublish": "npm test && npm run lint"
+    "prepublish": "npm test && npm run lint",
+    "docs": "jsdoc lib/*"
   },
   "repository": {
     "type": "git",
@@ -29,6 +30,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4",
     "jest": "^24.7.1",
+    "jsdoc": "^3.5.5",
     "pre-commit": "^1.2.2",
     "sinon": "^7.3.2",
     "sinon-chai": "^3.3.0"
