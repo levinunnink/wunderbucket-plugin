@@ -211,6 +211,6 @@ Plugin | Hook | Description
 
 If you would like us to list your plugin here, please get in touch.
 
-# Author
+# Authors
 
 - [Levi Nunnink](https://nunn.ink)
