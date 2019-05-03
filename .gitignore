@@ -6,4 +6,5 @@
 .node-persist
 test/coverage
 out
+docs
 package-lock.json
