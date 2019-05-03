@@ -30,7 +30,6 @@ const mockHTML = `
 const wunderbucket = {
   $: cheerio.load(mockHTML),
   addAsset: (asset) => {
-    console.log('asset', asset);
     return asset;
   },
 }
