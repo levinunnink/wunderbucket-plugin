@@ -1,5 +1,5 @@
-const WunderPlugin = require('wunderbucket-plugin');
 const fs = require('fs');
+const WunderPlugin = require('../../index');
 
 class ImageEncoder extends WunderPlugin {
   static processAsset(complilerContext, extractorResult) {

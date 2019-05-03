@@ -1,5 +1,5 @@
 const { minify } = require('html-minifier');
-const WunderPlugin = require('wunderbucket-plugin');
+const WunderPlugin = require('../../index');
 
 class HTMLMinifier extends WunderPlugin {
   static async process(compilerContext) {
