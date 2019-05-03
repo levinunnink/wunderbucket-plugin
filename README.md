@@ -1,4 +1,4 @@
-# Wunderbucket Plugins
+# wunderbucket-plugin
 
 [![npm version](https://badge.fury.io/js/wunderbucket-plugin.svg)](https://badge.fury.io/js/wunderbucket-plugin) [![Build Status](https://travis-ci.com/levinunnink/wunderbucket-plugin.svg?branch=master)](https://travis-ci.com/levinunnink/wunderbucket-plugin)
 
