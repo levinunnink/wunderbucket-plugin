@@ -1,4 +1,6 @@
-# 🔌 Wunderbucket Plugins
+# Wunderbucket Plugins
+
+[![npm version](https://badge.fury.io/js/wunderbucket-plugin.svg)](https://badge.fury.io/js/wunderbucket-plugin) [![Build Status](https://travis-ci.com/levinunnink/wunderbucket-plugin.svg?branch=master)](https://travis-ci.com/levinunnink/wunderbucket-plugin)
 
 WunderBucket plugins are designed to be easy to create if you have a basic knowledge of Javascript and HTML.
 They follow a simple system of three different methods or "hooks" which will be called in sequence when you run the 
