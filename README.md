@@ -84,13 +84,13 @@ class ImageEncoder extends WunderPlugin {
       case 'image/png':
         data = `data:image/png;base64,${encoded}`;
         break;
-      case: 'image/jpeg':
+      case 'image/jpeg':
         data = `data:image/jpeg;base64,${encoded}`;
         break;
-      case: 'image/gif':
+      case 'image/gif':
         data = `data:image/gif;base64,${encoded}`;
         break;
-      case: 'image/svg':
+      case 'image/svg':
         data = `data:image/svg+xml;base64,${encoded}`;
         break;
       default:
